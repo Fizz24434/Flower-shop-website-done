@@ -48,10 +48,11 @@
 .box-container{
     display:flex;
     justify-content: space-between;
-    align-items: center;
     margin: auto;
     gap: 80px;
     width: 70%;
+    text-align: center;
+
 
 }
 .box1 {
@@ -144,7 +145,7 @@
 .letest-details{
     width: 80%;
     height: 60vh;
-    background-image: url(../Rectangle\ 9.png);
+    background-image: url("Rectangle 9.png");
     margin:40px auto;
     display: flex;
     align-items: center;
